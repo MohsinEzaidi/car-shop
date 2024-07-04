@@ -62,7 +62,7 @@ main > div:last-of-type span {
 }
 
 .own {
-  color: #d35266;
+  color: #F2003C;
   font-weight: 700;
 }
 
@@ -72,7 +72,7 @@ main > div:last-of-type span {
 }
 
 .style-price {
-  background-color: #d35266;
+  background-color: #F2003C;
   padding: 5px 10px;
   color: #fff;
 }
